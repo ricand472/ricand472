@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ricand472
-- 👀 I’m interested in literally nothing.
-- 🌱 I’m currently learning literally nothing.
-- 💞️ I’m looking to collaborate on literally nothing.
-- 📫 How to reach me, I don't know.
+- 👀 I’m interested in interesting things.
+- 🌱 I’m currently learning everything.
+- 💞️ I’m looking to collaborate with anyone.
+- 📫 How to reach me, not sure.
 
 <!---
 ricand472/ricand472 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
